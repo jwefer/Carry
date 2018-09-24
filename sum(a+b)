@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+sum(int x,int y)
+{
+int z;
+z=x+y;
+}
+int main(void)
+{
+int a,b,c;
+a=47,b=8;
+c=sum(a+b）;
+cout<<c<<'/n';
+return 0;
